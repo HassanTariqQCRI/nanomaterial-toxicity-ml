@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data supplied separately
+data/*.xlsx
+data/*.xls
+data/*.csv
+data/*.parquet
+
+# Models and generated artifacts
+models/
+outputs/
+*.joblib
+*.pkl
+
+# Environment and editor files
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
