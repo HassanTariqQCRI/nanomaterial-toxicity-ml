@@ -7,7 +7,7 @@
 
 An end-to-end biomedical machine-learning portfolio project for predicting **metal-oxide nanoparticle cytotoxicity** and continuous **cell viability** from physicochemical, biological, assay, dose, and exposure descriptors.
 
-This repository documents work completed by **Hassan Tariq** using two processing stages of a literature-derived nanotoxicology dataset. It demonstrates data-quality auditing, leakage-safe preprocessing, imbalanced classification, regression, study-grouped validation, model comparison, threshold analysis, and responsible scientific interpretation.
+This repository documents work uses two processing stages of a literature-derived nanotoxicology dataset. It demonstrates data-quality auditing, leakage-safe preprocessing, imbalanced classification, regression, study-grouped validation, model comparison, threshold analysis, and responsible scientific interpretation.
 
 > **Research-use statement:** This is a validated baseline and screening workflow—not a clinical, toxicological, regulatory, or laboratory decision system. Predictions require independent experimental confirmation.
 
